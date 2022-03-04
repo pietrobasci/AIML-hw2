@@ -4,11 +4,9 @@ Second Assignment for the course "Machine Learning and Artificial Intelligence" 
 
 Image classification using Convolutional Neural Network.
 
-*Main algorithms and techniques:* AlexNet, VGG, ResNet-50, Transfer Learning, Data Augmentation.
-<br>
-*Evaluation metrics:* Accuracy.
-<br>
-*Programming language and main libraries:* Python, Pytorch.
+* *Main algorithms and techniques:* AlexNet, VGG, ResNet-50, Transfer Learning, Data Augmentation.
+* *Evaluation metrics:* Accuracy.
+* *Programming language and main libraries:* Python, Pytorch.
 
 ### Abstract
 
